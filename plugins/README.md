@@ -2,20 +2,6 @@
 
 Domain-specific developer workflows with skills-based architecture.
 
-## Installation
-
-Add marketplace:
-
-```sh
-claude plugin marketplace add eastagile/claude-code-plugins
-```
-
-Install individual plugins:
-
-```sh
-claude plugin install dev@eastagile
-```
-
 ## Available Plugins
 
 ### Dev (Core Workflows)
