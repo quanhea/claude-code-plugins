@@ -1,0 +1,22 @@
+{
+  "name": "dev",
+  "version": "1.0.0",
+  "description": "Unified developer workflow commands: TDD, refactoring, domain knowledge, debugging, documentation, deep dives, Q&A, coverage, code review, project context, etc.",
+  "author": {
+    "name": "East Agile",
+    "email": "developers@eastagile.com"
+  },
+  "keywords": ["tdd", "refactor", "domain", "debug", "documentation", "learning", "code review", "context"],
+  "commands": "./commands/",
+  "agents": [
+    "./agents/codebase-qa.md",
+    "./agents/context.md",
+    "./agents/debugger.md",
+    "./agents/deep-diver.md",
+    "./agents/describer.md",
+    "./agents/domain-researcher.md",
+    "./agents/reviewer.md"
+  ],
+  "skills": "./skills/",
+  "hooks": "./hooks/hooks.json"
+}
