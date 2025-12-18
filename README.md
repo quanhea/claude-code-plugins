@@ -20,3 +20,7 @@ claude plugin install dev@eastagile
 ### More Information
 
 See [plugins/README.md](plugins/README.md) for available skills and usage details.
+
+### License
+
+[© 2025 East Agile](LICENSE)
